@@ -16,7 +16,7 @@
             <pubDate>Sat, 18 Nov 2023 02:02:00 +0900</pubDate>
             <enclosure url="https://apple.com"
                        sparkle:version="1.1.2" sparkle:os="iOS" />
-            <sparkle:tags><sparkle:criticalUpdate/></sparkle:tags>
+            <!-- <sparkle:tags><sparkle:criticalUpdate/></sparkle:tags> -->
         </item>
     </channel>
 </rss>
