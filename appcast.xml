@@ -4,9 +4,23 @@
         <title>Museum Liner - Appcast</title>
         <item>
             <title>Version 1.1.2</title>
-            <description>Minor updates and improvements.</description>
-            <pubDate>Fri, 7 Nov 2023 23:56:00 +0900</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.museumliner.muliner_app" sparkle:version="1.1.2" sparkle:os="android" />
+            <description>업그레이더 테스트 중입니다.</description>
+            <pubDate>Sat, 18 Nov 2023 02:02:00 +0900</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.museumliner.muliner_app"
+                       sparkle:version="1.1.2" sparkle:os="android" />
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
+        </item>
+        <item>
+            <title>Version 1.1.2</title>
+            <description>업그레이더 테스트 중입니다.</description>
+            <pubDate>Sat, 18 Nov 2023 02:02:00 +0900</pubDate>
+            <enclosure url="https://apple.com"
+                       sparkle:version="1.1.2" sparkle:os="iOS" />
+            <sparkle:tags>
+                <sparkle:criticalUpdate/>
+            </sparkle:tags>
         </item>
     </channel>
 </rss>
