@@ -7,7 +7,7 @@
             <description>업그레이더 테스트 중입니다.</description>
             <pubDate>Sat, 18 Nov 2023 02:02:00 +0900</pubDate>
             <enclosure url="https://google.com"
-                       sparkle:version="1.1.2" sparkle:os="android" />
+                       sparkle:version="1.1.1" sparkle:os="android" />
             <!-- <sparkle:tags><sparkle:criticalUpdate/></sparkle:tags> -->
         </item>
         <item>
@@ -15,7 +15,7 @@
             <description>업그레이더 테스트 중입니다.</description>
             <pubDate>Sat, 18 Nov 2023 02:02:00 +0900</pubDate>
             <enclosure url="https://apple.com"
-                       sparkle:version="1.1.2" sparkle:os="iOS" />
+                       sparkle:version="1.1.1" sparkle:os="iOS" />
             <!-- <sparkle:tags><sparkle:criticalUpdate/></sparkle:tags> -->
         </item>
     </channel>
