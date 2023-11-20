@@ -3,20 +3,12 @@
     <channel>
         <title>Museum Liner - Appcast</title>
         <item>
-            <title>Version 1.1.6</title>
+            <title>Version 1.1.7</title>
             <description>버그 수정 및 성능 개선</description>
-            <pubDate>2023-11-20 14:40:00 +0900</pubDate>
+            <pubDate>2023-11-20 15:40:00 +0900</pubDate>
             <enclosure url="https://google.com"
-                       sparkle:version="1.1.6" sparkle:os="android" />
-            <sparkle:tags><sparkle:criticalUpdate/></sparkle:tags>
-        </item>
-        <item>
-            <title>Version 1.1.6</title>
-            <description>버그 수정 및 성능 개선</description>
-            <pubDate>2023-11-20 14:40:00 +0900</pubDate>
-            <enclosure url="https://apple.com"
-                       sparkle:version="1.1.6" sparkle:os="iOS" />
-            <!-- <sparkle:tags><sparkle:criticalUpdate/></sparkle:tags> -->
+                       sparkle:version="1.1.7" sparkle:os="android" />
+<!--             <sparkle:tags><sparkle:criticalUpdate/></sparkle:tags> -->
         </item>
     </channel>
 </rss>
